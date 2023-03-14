@@ -12,7 +12,7 @@ While starting the day user can create DROID STAR, The meeting has explained lit
   - follow the steps and create DROID STAR
 
 Meetig also has explained how to use microsoft team properly like:
-  - Like add some one on the call 
+  - How add some one on the call 
   - How to use channel where each channel has specific discussion
 
 Meeting have also introduced how to use guthub md files in communication and report.
